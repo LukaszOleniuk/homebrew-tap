@@ -1,6 +1,6 @@
 cask "crabpad" do
-  version "1.0.4"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  version "1.0.5"
+  sha256 "8c324e1ee6639a66a3e670c99e660431e835060dac275a2718719cccc64a20c1"
 
   url "https://crabpad.app/download/v#{version}/CrabPad_#{version}_universal.dmg"
   name "CrabPad"
